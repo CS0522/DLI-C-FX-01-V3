@@ -1,2 +1,5 @@
 # NVIDIA Fundamentals of Deep Learning  
-DLI-C-FX-01-V3
+## Assessment  
+Congratulations on going through today's course! Hopefully, you've learned some valuable skills along the way and had fun doing it. Now it's time to put those skills to the test. In this assessment, you will train a new model that is able to recognize fresh and rotten fruit. You will need to get the model to a validation accuracy of `92%` in order to pass the assessment, though we challenge you to do even better if you can. You will have the use the skills that you learned in the previous exercises. Specifically, we suggest using some combination of transfer learning, data augmentation, and fine tuning. Once you have trained the model to be at least `92%` accurate on the validation dataset, save your model, and then assess its accuracy. Let's get started!
+
+[My NVIDIA DLI Certificate](https://courses.nvidia.com/certificates/62b93c6016e646d88db3733a1e40fc10/)
